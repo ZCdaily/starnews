@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="cz">
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Leoš Mareš neodhadl situaci a přecenil své síly</title>
+Leoš Mareš neodhadl situaci a přecenil své síly
 
 <p><img src="https://sedmicka.tyden.cz/obrazek/202003/5e72a002bbb59/crop-2039264-11-00-hlavni-frh-2673_800x540.jpg" alt="" /></p>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
